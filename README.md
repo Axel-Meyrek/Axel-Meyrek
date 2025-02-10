@@ -41,8 +41,8 @@
 - Evaluaciones, retos y material de apoyo
 
 ## 📢 Redes y contenido
-- 📷 **Instagram:** [@AxelMeyrek](https://www.instagram.com/axelmeyrek/)
-- 🐦 **X (Twitter):** [@AxelMeyrek](https://twitter.com/axelmeyrek)
+- 📷 **Instagram:** [@AxelMeyrek](https://www.instagram.com/axel_meyrek/)
+- 🐦 **X (Twitter):** [@AxelMeyrek](https://twitter.com/axel_meyrek)
 
 ## 🤝 ¡Trabajemos juntos!
 Siempre estoy abierto a nuevas oportunidades, colaboraciones y proyectos. Si necesitas ayuda con desarrollo web, asesoría en programación o simplemente quieres hablar sobre tecnología, no dudes en contactarme.
