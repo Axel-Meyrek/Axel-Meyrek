@@ -49,3 +49,9 @@ Siempre estoy abierto a nuevas oportunidades, colaboraciones y proyectos. Si nec
 
 📩 **Email:** [mey.scripting@gmail.com]  
 💼 **LinkedIn:** [linkedin.com/in/meyrek](https://www.linkedin.com/in/axelmeyrek/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axel-meyrek/axel-meyrek/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axel-meyrek/axel-meyrek/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Porx312/Porx312/output/github-snake.svg" />
+</picture>
