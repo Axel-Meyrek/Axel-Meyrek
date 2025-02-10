@@ -13,11 +13,7 @@
 - **Lenguajes:** JavaScript, HTML, CSS
 - **Frameworks y Librerías:** React, Express
 - **Bases de datos:** MySQL, MongoDB
-- **Otras herramientas:** Git, Docker, APIs
-
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+- **Otras herramientas:** Git, APIs
 
 
 ## 📌 Proyectos destacados
@@ -45,12 +41,11 @@
 - Evaluaciones, retos y material de apoyo
 
 ## 📢 Redes y contenido
-- 📷 **Instagram:** [@meyscripting](https://www.instagram.com/meyscripting/)
-- 🐦 **X (Twitter):** [@meyscripting](https://twitter.com/meyscripting)
-- 🎥 **Reels educativos** sobre programación y desarrollo de software
+- 📷 **Instagram:** [@AxelMeyrek](https://www.instagram.com/axelmeyrek/)
+- 🐦 **X (Twitter):** [@AxelMeyrek](https://twitter.com/axelmeyrek)
 
 ## 🤝 ¡Trabajemos juntos!
 Siempre estoy abierto a nuevas oportunidades, colaboraciones y proyectos. Si necesitas ayuda con desarrollo web, asesoría en programación o simplemente quieres hablar sobre tecnología, no dudes en contactarme.
 
-📩 **Email:** [tuemail@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/meyrek](https://www.linkedin.com/in/meyrek/)
+📩 **Email:** [mey.scripting@gmail.com]  
+💼 **LinkedIn:** [linkedin.com/in/meyrek](https://www.linkedin.com/in/axelmeyrek/)
